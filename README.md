@@ -1,3 +1,5 @@
+![this-is-the-wide](.github/preview.png)
+
 # this-is-the-wide ⚔️🖥️
 
 *This is the wave. This is the wide.*
